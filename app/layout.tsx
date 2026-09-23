@@ -6,6 +6,9 @@ export const metadata: Metadata = {
   title: 'Agrocultifarm Technologies | The Operating System for Modern Agriculture',
   description: 'Agrocultifarm Technologies digitizes agriculture through FinTech, IoT, smart marketplaces, and custom software engineering.',
   generator: 'Agrocultifarm Technologies',
+  verification: {
+    google: 'W5oqcD3x3S8N9lPRsxuiyv5Gc2KmbhITirPzP8FKBkQ',
+  },
   icons: {
     icon: [
       {
